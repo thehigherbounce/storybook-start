@@ -9,7 +9,7 @@ export default {
 export const Default = {
   args: {
     task: {
-      id: 1,
+      id: '1',
       title: 'Test Task',
       state: 'TASK_INBOX',
     },
